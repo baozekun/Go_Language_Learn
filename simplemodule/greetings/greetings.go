@@ -34,3 +34,7 @@ func randomFormat() string {
 	}
 	return formats[rand.Intn(len(formats))]
 }
+
+func funcOne() string {
+	return "123"
+}
