@@ -62,6 +62,7 @@ func printStr() {
 }
 
 func multiArr(aArr []int, aLen int, bArr []int, bLen int, str string) float32 {
+
 	var i, sum1, sum2 int
 	var avg1, avg2 float32
 
